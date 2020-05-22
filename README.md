@@ -18,4 +18,14 @@ Will update optparse to argparse.
 
 Will update to quite and verbose modes. 
 
+MACS are created using Join, Hex and lambda/map functions.
+
 Matches MACs before and after via regex to ensure changes were made.
+
+Uses subprocess calls with safe list comprehension, and check_output with and without shell visualizations.
+
+ToDo: refactor, remove clunky console logs and print statements remnants from debugging.
+ToDo: fix menu system so that it's easier to navigate when others use it
+ToDO: continue removing things to functions so they are isolated tasks
+ToDo: remove internal
+ToDo: Create better Readme markdown, and more informed instructions
